@@ -189,7 +189,6 @@
   /* ---------- Responsive ---------- */
   @media (max-width: 960px) {
     .hero-wrap { padding: 0 24px; }
-    .nav-links { display: none; }
     .navbar { grid-template-columns: 1fr auto; }
     .hero { grid-template-columns: 1fr; }
     .hero-text { padding-top: 20px; }
